@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Human Resources</string>
+
+    <string name="manager_name">Manager name</string>
+    <string name="enter_manager_name">Enter manager name</string>
+    <string name="manager_successfully_hired_employee">%1$s successfully hired %2$s</string>
+    <string name="hiring_canceled">Hiring canceled</string>
+
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="job_title">Job title</string>
+    <string name="compensation">Compensation</string>
+    <string name="compensation_units_yearly">Yearly</string>
+    <string name="compensation_units_hourly">Hourly</string>
+    <string name="type">Type</string>
+    <string name="permanent">Permanent</string>
+    <string name="contractor">Contractor</string>
+    <string name="intern">Intern</string>
+    <string name="manager">Manager</string>
+    <string name="hire">Hire</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_hire">New hire</string>
+    <string name="hire_employee">Hire employee</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="password_must_have_at_least_8_characters">Password must have at least 8 characters</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_valid_email">Enter valid email</string>
+    <string name="enter_date_of_birth">Enter date of birth</string>
+    <string name="enter_valid_date_of_birth">Enter valid date of birth</string>
+    <string name="enter_job_title">Enter job title</string>
+    <string name="enter_compensation">Enter compensation</string>
+    <string name="enter_valid_compensation">Enter valid compensation</string>
+    <string name="enter_compensation_greater_than_0">Enter compensation greater than 0</string>
+    <string name="select_compensation_units">Select compensation units</string>
+    <string name="select_type">Select type</string>
+    <string name="contractors_require_hourly_compensation">Contractors require hourly compensation</string>
+    <string name="contractors_cannot_be_hired_as_managers">Contractors cannot be hired as managers</string>
+    <string name="interns_cannot_be_hired_as_managers">Interns cannot be hired as managers</string>
+
+    <string-array name="compensation_units">
+        <item>@string/compensation_units_yearly</item>
+        <item>@string/compensation_units_hourly</item>
+    </string-array>
+</resources>
