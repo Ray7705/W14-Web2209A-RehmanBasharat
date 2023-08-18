@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fingers</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="no_fingers">no fingers</string>
+    <plurals name="number_of_fingers">
+        <item quantity="one">%d finger</item>
+        <item quantity="other">"other">%d fingers</item>
+    </plurals>
+</resources>
