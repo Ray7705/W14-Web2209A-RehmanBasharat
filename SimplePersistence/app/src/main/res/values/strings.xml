@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Persistence</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="height">Height</string>
+    <string name="Age">Age</string>
+    <string name="Save">Save</string>
+    <string name="Load">Load</string>
+    <string name="Reset">Reset</string>
+    <string name="Clear">Clear</string>
+
+</resources>
