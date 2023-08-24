@@ -9,6 +9,7 @@ import android.database.sqlite.SQLiteDatabase;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+
 import ca.collegeuniversel.workouttrackerrehmanbasharat.Entities.Workout;
 
 public class WorkoutRepository {
@@ -50,7 +51,7 @@ public class WorkoutRepository {
         int duration = cursor.getInt(2);
         int quantity = cursor.getInt(3);
 
-        return new Worlout(id, name, duration, quantity);
+        return new Workout(id, name, duration, quantity);
     }
 
     public Workout add(Workout workout) {
