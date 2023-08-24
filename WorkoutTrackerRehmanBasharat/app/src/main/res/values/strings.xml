@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">Workout Tracker Rehman Basharat</string>
+    <string name="name">Name</string>
+    <string name="duration">Duration</string>
+    <string name="quantity">Quantity</string>
+
+
+    <string name="total">Total</string>
+
+
+    <string name="total_amount">Total (%d)</string>
+    <string name="total_duration">Total duration</string>
+    <string name="workouts_list">Workouts list</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_workout">Edit workout</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="enter_a_name">Enter a name.</string>
+    <string name="enter_a_valid_number_of_duration">Enter a valid number of duration.</string>
+    <string name="enter_a_valid_duration">Enter a valid duration.</string>
+    <string name="deleted_workout">Deleted workout: %s.</string>
+    <string name="failed_to_add_workout">Failed to add workout.</string>
+    <string name="failed_to_edit_workout">Failed to edit workout.</string>
+    <string name="failed_to_save_changes_to_workout">Failed to save changes to workout.</string>
+    <string name="failed_to_delete_workout">Failed to delete workout.</string>
 </resources>
