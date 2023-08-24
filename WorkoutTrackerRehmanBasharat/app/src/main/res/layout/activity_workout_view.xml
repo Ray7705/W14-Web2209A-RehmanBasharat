@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="@dimen/item_horizontal_margin"
+    android:paddingVertical="@dimen/item_vertical_margin">
+
+    <TextView
+        android:id="@+id/text_view_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/item_horizontal_margin"
+        android:layout_weight="2"
+        android:contentDescription="@string/name" />
+
+
+    <TextView
+        android:id="@+id/text_view_duration"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/item_horizontal_margin"
+        android:layout_weight="1"
+        android:contentDescription="@string/duration"
+        android:textAlignment="textEnd" />
+
+    <TextView
+        android:id="@+id/text_view_quantity"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/item_horizontal_margin"
+        android:layout_weight="1"
+        android:contentDescription="@string/quantity"
+        android:textAlignment="textEnd" />
+
+    <TextView
+        android:id="@+id/text_view_total_duration"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:contentDescription="@string/total_duration"
+        android:textAlignment="textEnd" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
