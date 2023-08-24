@@ -19,7 +19,7 @@
     <string name="delete">Delete</string>
     <string name="enter_a_name">Enter a name.</string>
     <string name="enter_a_valid_number_of_duration">Enter a valid number of duration.</string>
-    <string name="enter_a_valid_duration">Enter a valid duration.</string>
+    <string name="enter_a_valid_quantity">Enter a valid quantity.</string>
     <string name="deleted_workout">Deleted workout: %s.</string>
     <string name="failed_to_add_workout">Failed to add workout.</string>
     <string name="failed_to_edit_workout">Failed to edit workout.</string>

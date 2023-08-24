@@ -123,7 +123,7 @@ public class EditWorkoutForm extends ConstraintLayout implements INameInput, IDu
     public void setQuantity(int quantity) {
         editTextQuantity.setText(String.valueOf(quantity));
     }
-    
+
     @Override
     public void setQuantityError(String error) {
         editTextQuantity.setError(error);
